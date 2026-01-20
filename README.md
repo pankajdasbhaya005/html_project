@@ -28,7 +28,7 @@ This repo is created to understand:
 - `youtube_search.html`  
    HTML-based layout inspired by a search page
 
--`list_in_html.html`
+-`list_in_html.html`  
   travel list using html only  
 
 ## 🎯 Purpose
