@@ -31,7 +31,7 @@ This repo is created to understand:
 - `list_in_html.html`    
    Travel list using html only
 - `table_in_html.html`  
-   Table using html
+   Table using html  
 -`forms.html`  
    Html using forms
 
