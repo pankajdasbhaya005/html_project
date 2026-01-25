@@ -21,13 +21,6 @@ This repo is created to understand:
 
 - `html_link.html`  
    Practice for HTML links and navigation
-
-- `sign_in_page.html`  
-   Simple sign-in page using HTML forms
-
-- `youtube_search.html`  
-   HTML-based layout inspired by a search page
-
 - `list_in_html.html`    
    Travel list using html only
 - `table_in_html.html`  
