@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Segmented vs Non-Segmented HTML (Only HTML)</title>
+</head>
+
+<body>
+
+
+
+    <h2>Non-Segmented HTML</h2>
+
+    <!--
+        Is example mein:
+        - Header
+        - Content
+        - Footer
+        sab ek hi container ke andar hai
+        Ye non-segmented structure hai
+    -->
+    <div>
+        <h3>Website Title</h3>
+
+        <p>
+            Ye ek non-segmented HTML page hai.
+            Isme pura content ek hi div ke andar likha gaya hai.
+        </p>
+
+        <p>
+            Simple pages ya practice ke liye use hota hai.
+        </p>
+
+        <p>
+            Footer © 2026
+        </p>
+    </div>
+
+    <hr>
+
+
+    <h2>Segmented HTML</h2>
+
+    <!--
+        Is example mein:
+        - Header alag
+        - Navigation alag
+        - Main content alag
+        - Footer alag
+        Ye segmented structure hai
+    -->
+
+    <!-- Header Segment -->
+    <header>
+        <h3>Website Header</h3>
+        <p>Logo / Title</p>
+    </header>
+
+    <!-- Navigation Segment -->
+    <nav>
+        <p>Home | About | Contact</p>
+    </nav>
+
+    <!-- Main Content Segment -->
+    <main>
+
+        <!-- First section -->
+        <section>
+            <h4>Main Content</h4>
+            <p>
+                Ye main content ka section hai.
+                Har section apna alag kaam karta hai.
+            </p>
+        </section>
+
+        <!-- Second section -->
+        <section>
+            <h4>Extra Information</h4>
+            <p>
+                Ye ek aur segment hai.
+            </p>
+        </section>
+
+    </main>
+
+    <!-- Footer Segment -->
+    <footer>
+        <p>Footer © 2026</p>
+    </footer>
+
+    <hr>
+
+
+    <h2>Difference: Segmented vs Non-Segmented</h2>
+
+    <p><strong>Non-Segmented HTML:</strong></p>
+    <ul>
+        <li>Sab content ek hi container mein hota hai</li>
+        <li>Structure clear nahi hota</li>
+        <li>Small pages ke liye theek</li>
+    </ul>
+
+    <p><strong>Segmented HTML:</strong></p>
+    <ul>
+        <li>Page multiple logical parts mein divided hota hai</li>
+        <li>Header, nav, main, footer clearly defined hote hain</li>
+        <li>Real-world websites isi structure ko use karti hain</li>
+    </ul>
+
+</body>
+
+</html>
