@@ -39,7 +39,10 @@ This repo is created to understand:
 - `entities_and_specialcharacter.html`  
    Entities and special characters with example using html
 - `Segmented vs Non-Segmented.html`  
-   Segmented vs Non-Segmented all detail in hinglish  
+   Segmented vs Non-Segmented all detail in hinglish
+- `semantic_html_project.html`  
+   Semantic HTML layout using HTML only
+ 
 
 ## 🎯 Purpose
 
